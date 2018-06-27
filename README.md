@@ -10,3 +10,6 @@ Two grueling levels stand between you and victory.
 
 ## 3D Models
 Radiation Gun: https://skfb.ly/6zuXK
+
+## Screenshots
+![alt text](https://raw.githubusercontent.com/GMoede/LaserGunGame/master/Screen%20Shot%202018-06-27%20at%203.21.23%20PM.png)
