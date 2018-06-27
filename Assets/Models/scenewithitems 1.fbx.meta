@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: dbce1f977cf4e034e96547d6f004c674
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: door_light
+    100002: door_light2
+    100004: moon
+    100006: polySurface100
+    100008: polySurface112
+    100010: polySurface113
+    100012: polySurface123
+    100014: polySurface131
+    100016: polySurface144
+    100018: polySurface187
+    100020: polySurface198
+    100022: polySurface199
+    100024: polySurface202
+    100026: polySurface231
+    100028: polySurface232
+    100030: polySurface26
+    100032: polySurface29
+    100034: polySurface342
+    100036: polySurface350
+    100038: polySurface389
+    100040: polySurface390
+    100042: polySurface396
+    100044: polySurface410
+    100046: polySurface66
+    100048: polySurface72
+    100050: polySurface74
+    100052: polySurface96
+    100054: polySurface99
+    100056: robot_character08:robot_minion
+    100058: //RootNode
+    100060: spotLight1
+    400000: door_light
+    400002: door_light2
+    400004: moon
+    400006: polySurface100
+    400008: polySurface112
+    400010: polySurface113
+    400012: polySurface123
+    400014: polySurface131
+    400016: polySurface144
+    400018: polySurface187
+    400020: polySurface198
+    400022: polySurface199
+    400024: polySurface202
+    400026: polySurface231
+    400028: polySurface232
+    400030: polySurface26
+    400032: polySurface29
+    400034: polySurface342
+    400036: polySurface350
+    400038: polySurface389
+    400040: polySurface390
+    400042: polySurface396
+    400044: polySurface410
+    400046: polySurface66
+    400048: polySurface72
+    400050: polySurface74
+    400052: polySurface96
+    400054: polySurface99
+    400056: robot_character08:robot_minion
+    400058: //RootNode
+    400060: spotLight1
+    2300000: polySurface100
+    2300002: polySurface112
+    2300004: polySurface113
+    2300006: polySurface123
+    2300008: polySurface131
+    2300010: polySurface144
+    2300012: polySurface187
+    2300014: polySurface198
+    2300016: polySurface199
+    2300018: polySurface202
+    2300020: polySurface231
+    2300022: polySurface232
+    2300024: polySurface26
+    2300026: polySurface29
+    2300028: polySurface342
+    2300030: polySurface350
+    2300032: polySurface389
+    2300034: polySurface390
+    2300036: polySurface396
+    2300038: polySurface410
+    2300040: polySurface66
+    2300042: polySurface72
+    2300044: polySurface74
+    2300046: polySurface96
+    2300048: polySurface99
+    2300050: robot_character08:robot_minion
+    3300000: polySurface100
+    3300002: polySurface112
+    3300004: polySurface113
+    3300006: polySurface123
+    3300008: polySurface131
+    3300010: polySurface144
+    3300012: polySurface187
+    3300014: polySurface198
+    3300016: polySurface199
+    3300018: polySurface202
+    3300020: polySurface231
+    3300022: polySurface232
+    3300024: polySurface26
+    3300026: polySurface29
+    3300028: polySurface342
+    3300030: polySurface350
+    3300032: polySurface389
+    3300034: polySurface390
+    3300036: polySurface396
+    3300038: polySurface410
+    3300040: polySurface66
+    3300042: polySurface72
+    3300044: polySurface74
+    3300046: polySurface96
+    3300048: polySurface99
+    3300050: robot_character08:robot_minion
+    4300000: robot_character08:robot_minion
+    4300002: polySurface66
+    4300004: polySurface72
+    4300006: polySurface74
+    4300008: polySurface96
+    4300010: polySurface100
+    4300012: polySurface112
+    4300014: polySurface113
+    4300016: polySurface144
+    4300018: polySurface187
+    4300020: polySurface198
+    4300022: polySurface199
+    4300024: polySurface231
+    4300026: polySurface232
+    4300028: polySurface350
+    4300030: polySurface389
+    4300032: polySurface390
+    4300034: polySurface396
+    4300036: polySurface123
+    4300038: polySurface131
+    4300040: polySurface202
+    4300042: polySurface99
+    4300044: polySurface26
+    4300046: polySurface410
+    4300048: polySurface29
+    4300050: polySurface342
+    2186277476908879412: ImportLogs
+    2186277476908879414: ImportLogs
+    2186277476908879416: ImportLogs
+    2186277476908879418: ImportLogs
+    2186277476908879420: ImportLogs
+    2186277476908879422: ImportLogs
+    2186277476908879424: ImportLogs
+    2186277476908879426: ImportLogs
+    2186277476908879428: ImportLogs
+    2186277476908879430: ImportLogs
+    2186277476908879432: ImportLogs
+    2186277476908879434: ImportLogs
+    2186277476908879436: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: air_conditioner
+    second: {fileID: 2100000, guid: 9fed52a28a3edac409876b53010399a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brick_wall_side
+    second: {fileID: 2100000, guid: 0ea49099843af64408c19df457a3a8d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete_floor
+    second: {fileID: 2100000, guid: f523fe1566aced947861ca4d98550713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dumpster
+    second: {fileID: 2100000, guid: a1e261ad2b10f454eaaa8bba1d56fb6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: e7f42dd462e97074e8c7e323616e439e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_alley
+    second: {fileID: 2100000, guid: bcdb21f419af9c34586964fe1238c0c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_window
+    second: {fileID: 2100000, guid: d2f2dfde4516d4f47b1adc6957976534, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: robot_character08_black
+    second: {fileID: 2100000, guid: a7340946e6ecb4046ad333d0a6bf19bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: robot_character08_lightblue
+    second: {fileID: 2100000, guid: f39222fcfd8757c47acbb76bacca4f72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: robot_character08_red_eyes
+    second: {fileID: 2100000, guid: f49233182a348884ca29b7bfa90d7ab5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: robot_character08_steel
+    second: {fileID: 2100000, guid: b05d18e5fff279d42ad5ec758a62a770, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rusty_door2
+    second: {fileID: 2100000, guid: c8678b5fbdcad2f43b7b164ef59ed037, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trash
+    second: {fileID: 2100000, guid: 7d4ff3cb146dd054d908800e284b99b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_frame
+    second: {fileID: 2100000, guid: 54588bf744238814dbdeb025cfbe359c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: 9be2da915b0914a4c86c092d700fac76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: worn_metal
+    second: {fileID: 2100000, guid: 4cd3d3d3637500d4c92f9bd48544e5e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: worn_steel
+    second: {fileID: 2100000, guid: 77b23129a1fb9ea4188891bf4ed9bbfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: worn_yellow
+    second: {fileID: 2100000, guid: 18c97f91a0638044e8addd49f3d12cab, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
